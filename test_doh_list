@@ -1,0 +1,26 @@
+# *** THIS IS A LEGACY LIST ***
+
+This is a temporary, legacy list, for dnscrypt-proxy <= 2.0.42 users.
+
+If you are running up-to-date software, replace `/v2/` with `/v3/` in the sources URLs
+of the `dnscrypt-proxy.toml` file (relevant lines start with `urls = ['https://...']`
+and are present in the `[sources]` section).
+
+THIS LIST IS AUTOMATICALLY GENERATED AS A SUBSET OF THE V3 LIST. DO NOT EDIT IT MANUALLY.
+
+If you want to contribute changes to a resolvers list, only edit files from the `v3` directory.
+
+--
+
+## google
+
+Google DNS (anycast)
+
+sdns://AgUAAAAAAAAABzguOC44LjigHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR6AZkxo_AEMExT_cbBssN43Evo9zs5_ZyWnftEUKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
+
+
+## google-ipv6
+
+Google DNS (anycast)
+
+sdns://AgUAAAAAAAAAFlsyMDAxOjQ4NjA6NDg2MDo6ODg4OF2gHvYkz_9ea9O63fP92_3qVlRn43cpncfuZnUWbzAMwbkgdoAkR6AZkxo_AEMExT_cbBssN43Evo9zs5_ZyWnftEUKZG5zLmdvb2dsZQovZG5zLXF1ZXJ5
